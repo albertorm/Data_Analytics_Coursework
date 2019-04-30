@@ -1,5 +1,5 @@
 # QMUL Data Analytics Coursework
-London Housing prices prediction
-Using Google Colaboratory
-1 Linear Regression model
+London Housing prices prediction using HM Land Registry: Price Paid Data\
+Google Colaboratory\
+1 Data Analysis\
 2 NN model
